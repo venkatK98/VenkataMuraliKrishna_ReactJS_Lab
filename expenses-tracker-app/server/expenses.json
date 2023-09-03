@@ -1,0 +1,67 @@
+{
+  "expenses": [
+    {
+      "expenseDescription": "Internet Expenses",
+      "payeeName": "Ramesh",
+      "price": 1100,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Bike Maintainence Expenses",
+      "payeeName": "Rahul",
+      "price": 3500,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "expenseDescription": "Electricity Bill - Nov Month",
+      "payeeName": "Ramesh",
+      "price": 2200,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Dinner Expenses - Friday Night",
+      "payeeName": "Rahul",
+      "price": 1750,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "expenseDescription": "Saturday - Movie Night",
+      "payeeName": "Ramesh",
+      "price": 920,
+      "date": "2023-02-26T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "expenseDescription": "",
+      "payeeName": "Rahul",
+      "price": 500,
+      "date": "2023-08-28T00:00:00.000Z",
+      "id": 6
+    },
+    {
+      "expenseDescription": "Testing",
+      "payeeName": "Ramesh",
+      "price": 100,
+      "date": "2023-08-29T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "expenseDescription": "For Lunch",
+      "payeeName": "Ramesh",
+      "price": 200,
+      "date": "2023-09-02T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "expenseDescription": "For Lunch",
+      "payeeName": "Ramesh",
+      "price": 200,
+      "date": "2023-09-01T00:00:00.000Z",
+      "id": 9
+    }
+  ]
+}
